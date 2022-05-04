@@ -94,7 +94,7 @@ fn main():
 At the time of writing this, there is only developer working for no one.
 Also, most of these things actually promote good practice.
 # Installation
-Download at least Python 3.8.2
+Download at least Python 3.8.2  
 Visit https://python.org/ and there should be a link to the download.
 Python 3.10.4 is the latest at the time of writing this, and here's a link:
 https://www.python.org/downloads/release/python-3104/
