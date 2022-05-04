@@ -87,5 +87,5 @@ fn main():
 ```rust
 fn main():
     // GOOD (again, comment used to show indent)
-   println!("Hello World!")
+    println!("Hello World!")
 ```
