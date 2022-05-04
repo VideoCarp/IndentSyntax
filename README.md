@@ -104,3 +104,6 @@ Open Command Prompt or any command line, then run `cd <path>`
 where `<path>` is the path to the directory (folder) which you downloaded the `src` folder.
 Then, run `py main.py`
 And you're good to go!
+If it did not work, try running `python main.py`.
+You can download the repository by going to the release tag, or pressing the download button GitHub provides.
+You can also clone the repository with Git.
