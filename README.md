@@ -93,3 +93,14 @@ fn main():
 ### Why all these inconveniences?
 At the time of writing this, there is only developer working for no one.
 Also, most of these things actually promote good practice.
+# Installation
+Download at least Python 3.8.2
+Visit https://python.org/ and there should be a link to the download.
+Python 3.10.4 is the latest at the time of writing this, and here's a link:
+https://www.python.org/downloads/release/python-3104/
+
+Download the `src` folder and put it anywhere you like.
+Open Command Prompt or any command line, then run `cd <path>`
+where `<path>` is the path to the directory (folder) which you downloaded the `src` folder.
+Then, run `py main.py`
+And you're good to go!
