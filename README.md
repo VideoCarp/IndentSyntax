@@ -3,6 +3,7 @@ Indentation syntax for C-style languages and Ruby/Lua style.
 This project allows you to write with indentation syntax in any language that uses C-style curly braces,
 or `end` like Ruby, Lua and Julia.
 It is recommended to read this README entirely.
+Discord: https://discord.gg/PTucXHkX8t
 # Examples:
 
 ## Rust
