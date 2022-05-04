@@ -2,7 +2,7 @@
 Indentation syntax for C-style languages and Ruby/Lua style.
 This project allows you to write with indentation syntax in any language that uses C-style curly braces,
 or `end` like Ruby, Lua and Julia.
-
+It is recommended to read this README entirely.
 # Examples:
 
 ## Rust
@@ -89,3 +89,7 @@ fn main():
     // GOOD (again, comment used to show indent)
     println!("Hello World!")
 ```
+
+### Why all these inconveniences?
+At the time of writing this, there is only developer working for no one.
+Also, most of these things actually promote good practice.
